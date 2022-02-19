@@ -1,0 +1,9 @@
+const SOCKET_ACTIONS = {
+  JOIN_CHAT: "JOIN_CHAT",
+  GET_ALL_ONLINE_MEMBERS: 'GET_ALL_ONLINE_MEMBERS',
+  CHAT: 'CHAT'
+};
+
+module.exports = {
+  SOCKET_ACTIONS,
+};
